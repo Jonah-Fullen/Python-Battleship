@@ -3,6 +3,7 @@
 # CSC-131-005
 # Programming Assignment 4.3: Battleship
 """
+[Comment to the TA]
 Ganga, 
 I did not use the framework for any of this assignment. At no point did the
 directions say that we must use it but always said something like 'if you
