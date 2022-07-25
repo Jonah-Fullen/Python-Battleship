@@ -10,7 +10,7 @@ directions say that we must use it but always said something like 'if you
 weren't able to do the previous part here is the framewoek for it.' I have
 already spoken with Dr. Dogan about this and have assured her that I have not
 taken any of my code from the internet but have written it all myself - and I
-believe taht all of my comments throughout the code will show this as well.
+believe that all of my comments throughout the code will show this as well.
 After briefly looking at my code, Dr. Dogan has said that it is okay for me
 to not redo the entire assignment with the framework, but that I can keep my
 own version of the program.
